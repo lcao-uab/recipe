@@ -3,3 +3,4 @@
 * lime
 * salt
 * onion
+* cilantro
